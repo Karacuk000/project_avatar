@@ -1,26 +1,31 @@
-<View
-android:id="@+id/avatar_2_62"
-android:layout_width="186dp"
-android:layout_height="72dp"
-android:layout_alignParentLeft="true"
-android:layout_marginLeft="204dp"
-android:layout_alignParentTop="true"
-android:layout_marginTop="39dp"
-android:background="@drawable/avatar_2_62"
- />
+ class="a"{
+  width: 186px
+height: 72px
+top: 39px
+left: 204px
 
-<!-- drawable/avatar_2_62.xml -->
-<vector
-xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:aapt="http://schemas.android.com/aapt"
-android:width="186dp"
-android:height="72dp"
-android:viewportWidth="186"
-android:viewportHeight="72"
- >
-<group>
-<clip-path
-android:pathData="M0 0H186V72H0V0Z"
-/>
-</group>
-</vector>
+}
+ul{
+  width: 293px
+height: 24px
+top: 63px
+left: 574px
+
+}
+h3{
+  width: 141px
+height: 41.69px
+top: 54px
+left: 1095px
+border-radius: 35px, 0px, 35px, 0px
+
+}
+class="b"{
+  width: 141px
+height: 41.69px
+top: 54px
+left: 1095px
+border-radius: 35px, 0px, 35px, 0px
+
+}
+
