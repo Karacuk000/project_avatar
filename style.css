@@ -1,6 +1,6 @@
- class="a"{
+ .class.a {
   width: 186px
-height: 72px
+height; 70xp
 top: 39px
 left: 204px
 
@@ -20,7 +20,7 @@ left: 1095px
 border-radius: 35px, 0px, 35px, 0px
 
 }
-class="b"{
+.class.b{
   width: 107px
   height: 20px
   top: 65px
@@ -45,7 +45,7 @@ left: 574px
 
 }
 
-div class=V {
+div .class.V {
   width: 376px
 height: 381px
 top: 330px
@@ -73,7 +73,7 @@ text-align: justified;
 
 
 }
-h2 class {
+h2 .class.F {
   width: 825px
 height: 44px
 top: 1013px
@@ -94,7 +94,7 @@ top: 1073px
 left: 649px
 
 }
-img class=I {
+img .class.I {
   width: 400px
 height: 120px
 top: 1230px
@@ -127,7 +127,7 @@ letter-spacing: 0em;
 text-align: justified;
 
 }
-h5 class=H {
+h5 .class.H {
   width: 142px
 height: 29px
 top: 2164px
@@ -140,16 +140,16 @@ letter-spacing: 0em;
 text-align: justified;
 
 }
-img class=D {
+img .class.D {
   width: 400px
 height: 120px
 top: 2321px
 left: 521px
 
 }
-img class=P {
+img .class.P {
 background-image
-  width: 1440px
+width ; 1440px
 height: 704px
 top: 2331px
 
@@ -175,7 +175,7 @@ letter-spacing: 0em;
 text-align: center;
 
 }
-img class=SPIKE
+img .class.SPIKE
 {
   width: 152px
 height: 40px
@@ -183,14 +183,14 @@ top: 2574px
 left: 288px
 
 }
-img class=SPIKE {
+img .class.SPIKE {
   width: 152px
 height: 40px
 top: 2838px
 left: 287px
 
 }
-img class=SPIKE {
+img .class.SPIKE {
   width: 152px
 height: 40px
 top: 2574px
@@ -198,7 +198,7 @@ left: 1151px
 angle: -180 deg
 
 }
-img class=SPIKE {
+img .class.SPIKE {
   width: 152px
 height: 40px
 top: 2838px
@@ -206,14 +206,14 @@ left: 1151px
 angle: -180 deg
 
 }
-img class=OMG {
+img .class.OMG {
   width: 152px
 height: 40px
 top: 2614px
 left: 644px
 
 }
-img class=OMG {
+img .class.OMG {
   width: 152px
 height: 40px
 top: 2878px
@@ -230,8 +230,7 @@ font-size: 24px;
 font-weight: 400;
 line-height: 24px;
 letter-spacing: 0em;
-text-align: justified;
-
+text-align: justified; 
 }
 h4 {
   width: 186px
@@ -270,101 +269,100 @@ left: 297px
 }
 h4 {
   width: 96px
-height: 24px
+height; 24px
 top: 2918px
 left: 316px
 
 }
 h4 {
   width: 120px
-height: 24px
+height; 24px
 top: 2783px
 left: 660px
 
 }
 h4 {
   width: 210px
-height: 24px
+height; 24px
 top: 2918px
 left: 615px
 
 }
 h4 {
   width: 142px
-height: 24px
+height; 24px
 top: 2780px
 left: 1004px
 
 }
 h4 {
   width: 123px
-height: 24px
+height; 24px
 top: 2918px
 left: 1013px
 
 }
 h2 {
   width: 802px
-height: 92px
+height; 92px
 top: 3110px
 left: 319px
 
 }
-img class=OMG {
+img .class.OMG {
   width: 400px
-height: 120px
+height; 120px
 top: 3375px
 left: 520px
 
 }
 hr {
   width: 1440px
-height: 223px
+height; 223px
 top: 3385px
 border: 0px, 0px, 3px, 0px
 
 }
 :before {
   width: 153px
-top: 3420px
+top; 3420px
 left: 467px
 border: 2px
 angle: -90 deg
 border: 2px solid #FFFFFF
 }
-img class=img1
+img .class.img1
 {
   width: 183px
-height: 70px
+height; 70px
 top: 3462px
 left: 204px
 
 }
 h5 {
   width: 665px
-height: 24px
+height; 24px
 top: 3465px
 left: 547px
 
 }
 h5 {
   width: 689px
-height: 24px
+height; 24px
 top: 3505px
 left: 547px
 
 }
 h6 {
   width: 348px
-height: 17px
+height; 17px
 top: 3566px
 left: 678px
-font-family: Inter;
-font-size: 14px;
-font-weight: 400;
-line-height: 17px;
-letter-spacing: 0em;
-text-align: justified;
+font-size; 14px;
+font-weight; 400;
+line-height; 17px;
+letter-spacing; 0em;
+text-align; justified;
 
 
 }
