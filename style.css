@@ -137,9 +137,9 @@ body {
   width: 1100px;
   height: 44px;
   padding: top 225px;
-  padding: left 170px;
+  padding: left 160px;
   padding-right: 170px;
-  margin-left: 170px;
+  margin-left: 220px;
   color: #0a3853;
   text-align: justify;
   font-family: Inter;
@@ -172,11 +172,115 @@ body {
 }
 
 .section3-img {
+  width: 100%;
+  height: 741px;
+  flex-shrink: 0;
   background-image: url(src/images/background2-min.png);
   background-size: contain;
   background-repeat: no-repeat;
-  width: 1440px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.section4 {
+  width: 1442px;
+  height: 350px;
+  flex-shrink: 0;
+  background: #fff;
+  padding-top: 1px;
+}
+.section4-img {
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px;
+  margin-left: 530px;
+  background: url(src/images/bird-min.png),
+    lightgray -165.746px 331.63px / 187.845% -415.761% no-repeat;
+}
+.section4-h5 {
+  width: 142px;
+  height: 29px;
+  margin-top: 1px;
+  padding-left: 669px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.section4-text {
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.section4-h2 {
+  width: 857px;
+  height: 44px;
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 292px;
+  padding-top: 1px;
+  padding-bottom: 64px;
+  margin-left: 29px;
+}
+.section5 {
+  width: 100%;
   height: 741px;
   flex-shrink: 0;
+  background-image: url(src/images/group-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
   display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.section6-img {
+  width: 400px;
+  height: 120px;
+  flex-shrink: 0;
+  background: url(src/images/bird-min.png),
+    lightgray -165.746px 331.63px / 187.845% -415.761% no-repeat;
+  padding-bottom: 320px;
+  padding-left: 520px;
+  margin-bottom: 320px;
+  margin-left: 25px;
+}
+.section6-h5 {
+  width: 29px;
+  padding-bottom: 183px;
+  padding-left: 584px;
+  color: #141414;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-left: 96px;
+}
+.section6-h2 {
+  width: 857px;
+  height: 44px;
+  padding: top 75px;
+  padding-left: 322px;
+  margin-top: 75px;
+  color: #000;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
