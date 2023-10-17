@@ -252,30 +252,15 @@ body {
   flex-shrink: 0;
   background: url(src/images/bird-min.png),
     lightgray -165.746px 331.63px / 187.845% -415.761% no-repeat;
-  padding-bottom: 320px;
   padding-left: 520px;
-  margin-bottom: 320px;
   margin-left: 25px;
+  margin-top: -1000px;
+  padding-bottom: 10px;
 }
 .section6-h5 {
+  height: 93px;
   width: 29px;
-  padding-bottom: 183px;
-  padding-left: 584px;
-  color: #141414;
-  text-align: justify;
-  font-family: Inter;
-  font-size: 36px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
-  margin-left: 96px;
-}
-.section6-h2 {
-  width: 857px;
-  height: 44px;
-  padding: top 75px;
-  padding-left: 322px;
-  margin-top: 75px;
+  margin-left: 704px;
   color: #000;
   text-align: justify;
   font-family: Inter;
@@ -283,4 +268,67 @@ body {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+}
+.section6-h2 {
+  width: 700px;
+  height: 44px;
+  padding: top 75px;
+  padding-left: 402px;
+  margin-top: 75px;
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+footer {
+  display: flex;
+  width: 100%;
+  height: 223px;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  border-bottom: 3px solid #fff;
+  background: rgba(43, 74, 97, 0.87);
+}
+hr {
+  width: 2px;
+  height: 163px;
+  background: #fff;
+  rotate: -90;
+  margin-left: 47px;
+  margin-top: 3px;
+}
+.footer-text {
+  color: #fff;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.footer-img {
+  font-size: 200px;
+  font-weight: 400px;
+  width: 183px;
+  height: 76px;
+  bottom: 50px;
+  background-repeat: no-repeat;
+  background: url(src/images/logo-min.png);
+  background-repeat: no-repeat;
+  margin-left: 204px;
+  margin-top: 7px;
+}
+.footer-h5 {
+  margin-top: 80px;
+  margin-left: 547px;
+}
+.section3 {
+  background-image: url(src/images/background2-min.png);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
