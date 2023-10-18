@@ -1,0 +1,346 @@
+body {
+  margin: 0;
+}
+
+.header-li {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.login {
+  color: #26c6ea;
+  font-family: HeadlandOne;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-image: url(src/images/login-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 141px;
+  height: 41.694px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.switcher-link {
+  color: #fff;
+  font-family: Hammersmith One;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  border-bottom: 3px solid #fff;
+  background: rgba(43, 74, 97, 0.87);
+}
+
+body {
+  background-image: url(src/images/background1-min.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.header-logo {
+  width: 186px;
+  height: 72px;
+}
+
+.header-menu {
+  display: flex;
+  list-style: none;
+  gap: 38px;
+}
+
+.switcher {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Ñòèë³ äëÿ ïåðøî¿ ñåêö³¿ */
+.section1-p {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.section1-button {
+  color: #26c7ea;
+  font-family: HeadlandOne;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-image: url(src/images/login-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.section1 {
+  display: flex;
+  justify-content: space-around;
+}
+
+.section1-text {
+  width: 298px;
+  padding-top: 90px;
+  padding-bottom: 120px;
+}
+
+.section1-images {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-top: 250px;
+}
+.section2 {
+  width: 1440px;
+  height: 350px;
+  flex-shrink: 0;
+  background: #fff;
+  justify-content: space-around;
+}
+.section2-text {
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 200px;
+  line-height: normal;
+}
+
+.section2-h2 {
+  width: 1100px;
+  height: 44px;
+  padding: top 225px;
+  padding: left 160px;
+  padding-right: 170px;
+  margin-left: 220px;
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400px;
+  line-height: normal;
+  padding-bottom: 21px;
+}
+
+.section2-h5 {
+  width: 142px;
+  height: 29px;
+  padding: top 16px;
+  padding-left: 649px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.section2img {
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  margin-left: 520px;
+}
+
+.section3-img {
+  width: 100%;
+  height: 741px;
+  flex-shrink: 0;
+  background-image: url(src/images/background2-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.section4 {
+  width: 1442px;
+  height: 350px;
+  flex-shrink: 0;
+  background: #fff;
+  padding-top: 1px;
+}
+.section4-img {
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px;
+  margin-left: 530px;
+  background: url(src/images/bird-min.png),
+    lightgray -165.746px 331.63px / 187.845% -415.761% no-repeat;
+}
+.section4-h5 {
+  width: 142px;
+  height: 29px;
+  margin-top: 1px;
+  padding-left: 669px;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.section4-text {
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.section4-h2 {
+  width: 857px;
+  height: 44px;
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-left: 292px;
+  padding-top: 1px;
+  padding-bottom: 64px;
+  margin-left: 29px;
+}
+.section5 {
+  width: 100%;
+  height: 741px;
+  flex-shrink: 0;
+  background-image: url(src/images/group\ 40-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.section6-img {
+  width: 400px;
+  height: 120px;
+  flex-shrink: 0;
+  background: url(src/images/bird-min.png),
+    lightgray -165.746px 331.63px / 187.845% -415.761% no-repeat;
+  padding-left: 520px;
+  margin-left: 25px;
+  margin-top: -1000px;
+  padding-bottom: 10px;
+}
+.section6-h5 {
+  height: 93px;
+  width: 29px;
+  margin-left: 704px;
+  color: #000;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.section6-h2 {
+  width: 700px;
+  height: 85px;
+  padding: top 75px;
+  padding-left: 402px;
+  margin-top: 70px;
+  color: #0a3853;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 4200;
+  line-height: normal;
+}
+footer {
+  display: flex;
+  width: 100%;
+  height: 223px;
+  align-items: center;
+  justify-content: space-around;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  border-bottom: 3px solid #fff;
+  background: rgba(43, 74, 97, 0.87);
+}
+hr {
+  width: 2px;
+  height: 163px;
+  background: #fff;
+  rotate: -90;
+  margin-left: 47px;
+  margin-top: 3px;
+}
+.footer-text {
+  color: #fff;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.footer-img {
+  font-size: 200px;
+  font-weight: 400px;
+  width: 183px;
+  height: 76px;
+  bottom: 50px;
+  background-repeat: no-repeat;
+  background: url(src/images/logo-min.png);
+  background-repeat: no-repeat;
+  margin-left: 204px;
+  margin-top: 7px;
+}
+.footer-h5 {
+  margin-top: 80px;
+  margin-left: 547px;
+}
+
+.login2 {
+  color: #26c7ea;
+  font-family: HeadlandOne;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-image: url(src/images/login-min.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
