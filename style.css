@@ -327,8 +327,20 @@ hr {
   margin-top: 80px;
   margin-left: 547px;
 }
-.section3 {
-  background-image: url(src/images/background2-min.png);
-  background-repeat: no-repeat;
+
+.login2 {
+  color: #26c7ea;
+  font-family: HeadlandOne;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background-image: url(src/images/login-min.png);
   background-size: contain;
+  background-repeat: no-repeat;
+  width: 260px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
