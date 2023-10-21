@@ -171,16 +171,14 @@ body {
   margin-left: 520px;
 }
 
-.section3-img {
-  width: 100%;
+.section3 {
+  width: 1440px;
   height: 741px;
-  flex-shrink: 0;
-  background-image: url(src/images/background2-min.png);
-  background-size: contain;
-  background-repeat: no-repeat;
   display: flex;
+  background-image: url(src/images/background2-min.png);
   background-repeat: no-repeat;
-  background-size: contain;
+  align-items: center;
+  justify-content: center;
 }
 .section4 {
   width: 1442px;
